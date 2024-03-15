@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+python-dotenv #load environment variables
+langchain
+PyPDF2 #load any pdf or to read any pdf
+chromadb #specifically for vector embeddings
